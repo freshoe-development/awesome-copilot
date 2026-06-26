@@ -793,6 +793,12 @@
       "version": "1.0.0"
     },
     {
+      "name": "vscode-mobile-remote",
+      "source": "vscode-mobile-remote",
+      "description": "Remote control VS Code from an iPhone using VS Code Tunnel, and receive GitHub Copilot agent run notifications via the GitHub Mobile app. Step-by-step guided setup with troubleshooting.",
+      "version": "1.0.0"
+    },
+    {
       "name": "whatidid",
       "description": "Turn your Copilot sessions into proof of impact — research-grounded HTML reports with effort estimation, skills analysis, and ROI metrics from local session logs.",
       "version": "1.0.0",
